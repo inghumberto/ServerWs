@@ -1,3 +1,9 @@
 [submodule "openApiTest"]
 	path = openApiTest
 	url = https://github.com/inghumberto/openApiTest.git
+[submodule "MonitorWeb"]
+	path = MonitorWeb
+	url = https://github.com/inghumberto/MonitorWeb.git
+[submodule "testSubmodule"]
+	path = testSubmodule
+	url = https://github.com/inghumberto/testSubmodule.git
