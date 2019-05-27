@@ -1,0 +1,3 @@
+[submodule "openApiTest"]
+	path = openApiTest
+	url = https://github.com/inghumberto/openApiTest.git
